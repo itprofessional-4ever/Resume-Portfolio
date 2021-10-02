@@ -1,45 +1,28 @@
 {
   "main": {
-    "name": "Sonny Sangha",
-    "occupation": "CEO of PAPA",
-    "description": "I eat, sleep and breathe React",
-    "image": "profilepic.jpg",
-    "bio": "Hi there! I am Sonny! You might also know me as PAPA React. I've been coding for over 10 years now. As a Full Stack developer I've worked both with startups and large corporations to help build & scale their companies. Along the journey I realised my passion existed in helping others excel and pursue their dreams as upcoming developers. With this passion, I have now trained thousand's of developers across the globe. Through live coaching sessions on Youtube, I have accumulated several MILLION views demonstrating how to apply developer skills in a range of cool builds and challenges. I deliver REAL VALUE by teaching REAL WORLD projects to help students enter the world of web development. You’ll get hands-on experience and learn the skills that are required to succeed in the real-world in this community.",
-    "contactmessage": "Get in touch with me to be a part of the PAPA fam!",
-    "email": "papareact.team@gmail.com",
-    "phone": "+44 1234567899",
+    "name": "Chloe Lee",
+    "occupation": "Web Developer",
+    "description": "I dream of creative and funny world with hilarious coding",
+    "image": "profilepic.png",
+    "bio": "Hi there! I am Chloe. Since I just graduated from SAIT, I am trying to discover a new, creative world. Although I am not sure of my future and what will happen, I will continue to dream big and far. I lack experience when it comes to being professional. Nevertheless, I have a plan for every step I take in my path, and I constantly try my best to teach myself many different and new technologies. I am a fast learner, and I try my hardest, no matter the circumstances. I enjoy helping others out and using my abilities to my limit within the team. I am a positive person, a person that is easy to communicate with. I know when to listen to others and when to speak. I am open to new ideas and thoughts that are shared.",
+    "contactmessage": "Get in touch with me to be a part of Dream Coder Team!",
+    "email": "itprofessional.4ever7@gmail.com",
     "address": {
-      "street": "123 Dev Lane",
-      "city": "London",
-      "state": "Devosphere",
-      "zip": "W3B D3V"
+      "city": "Calgary",
+      "state": "Alberta",
+      "zip": "T3K 4Z6"
     },
-    "website": "https://www.papareact.com/course",
-    "resumedownload": "http://papareact.com",
+    "website": "https://softwaredeveloper-chloe.netlify.app",
+    "resumedownload": "/eunsuk_lee.pdf",
     "social": [
       {
-        "name": "youtube",
-        "url": "https://www.youtube.com/channel/UCqeTj_QAnNlmt7FwzNwHZnA",
-        "className": "fa fa-youtube"
-      },
-      {
-        "name": "facebook",
-        "url": "https://www.facebook.com/sonny.sangha.3",
-        "className": "fa fa-facebook"
-      },
-      {
         "name": "linkedin",
-        "url": "https://www.linkedin.com/in/saajansangha",
+        "url": "https://www.linkedin.com/in/eunsuk-lee/",
         "className": "fa fa-linkedin"
       },
       {
-        "name": "instagram",
-        "url": "https://www.instagram.com/ssssangha/",
-        "className": "fa fa-instagram"
-      },
-      {
         "name": "github",
-        "url": "https://github.com/PapaReact",
+        "url": "https://github.com/itprofessional-4ever",
         "className": "fa fa-github"
       }
     ]
@@ -48,74 +31,146 @@
     "skillmessage": "My Programming Language Proficiency",
     "education": [
       {
-        "school": "University of Kent - UK",
-        "degree": "Bachelor's Degree, Computer Science",
-        "graduated": "July 2016",
-        "description": "Graduated with First Class Honours"
+        "school": "Southern Alberta Institute of Technology",
+        "degree": "Diploma, Software Development",
+        "graduated": "June 2021",
+        "description": "Graduated with good grades"
       }
     ],
     "work": [
       {
-        "company": "PAPA",
-        "title": "Founder and CEO",
-        "years": "May 2019 - Present",
-        "description": "Cloning all the apps possible. On the way to clone the world! Building the PAPA Fam as large as possible."
+        "company": "Starbucks Canada",
+        "title": "Barista",
+        "years": "June 2016 - August 2018",
+        "description": "As a barista, take orders and meke coffee and other drinks to customer specifications, and maintain good customer relations and speedy delivery of all beverages as well as complete assigned tasks from management every day."
+      },
+      {
+        "company": "TG ONE",
+        "title": "Senior Microsoft Office International Certified Trainer",
+        "years": "January 2002 - May 2009",
+        "description": "Training to cultivate manpower with internationally recognized qualifications such as MS-Word, Excel, Powerpoint, Access, etc. Preparation for certification training, curriculum organization, qualification management, report for student progress, reception and textbook production."
       }
     ],
     "skills": [
       {
-        "name": "ReactJs",
+        "name": "HTML",
         "level": "100%"
       },
       {
-        "name": "Python",
+        "name": "CSS",
+        "level": "80%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "90%"
+      },
+      {
+        "name": "ReactJS",
+        "level": "85%"
+      },
+      {
+        "name": "MongoDB",
+        "level": "99%"
+      },
+      {
+        "name": "Express",
+        "level": "90%"
+      },
+      {
+        "name": "NodeJS",
         "level": "85%"
       },
       {
         "name": "Git",
-        "level": "70%"
+        "level": "90%"
       },
       {
-        "name": "JavaScript",
-        "level": "99%"
+        "name": "Java",
+        "level": "60%"
       },
       {
         "name": "Web Development",
-        "level": "95%"
+        "level": "75%"
       }
     ]
   },
   "portfolio": {
     "projects": [
       {
-        "title": "Snapchat Clone (React JS)",
-        "category": "",
-        "image": "snapchat.jpg",
-        "url": "https://youtu.be/1kGISk5ft2w"
+        "title": "Capstone Project(Binoo)",
+        "category": "eCommerce",
+        "image": "binoo.png",
+        "url": "http://binoobuffalo.herokuapp.com/"
       },
       {
-        "title": "Gmail Clone (React JS)",
+        "title": "Movie App",
         "category": "",
-        "image": "gmail.jpg",
-        "url": "https://youtu.be/b7nrXjS6Dqs"
+        "image": "movieApp.png",
+        "url": "https://github.com/itprofessional-4ever/50projects/tree/master/project17-Movie%20App"
       },
       {
-        "title": "LinkedIn Clone (React JS)",
+        "title": "Password Generator",
         "category": "",
-        "image": "linkedin.jpg",
-        "url": "https://youtu.be/QaYts9sPmcY"
+        "image": "passwordGenerator.png",
+        "url": "https://github.com/itprofessional-4ever/50projects/tree/master/project31-Password%20Generator"
+      },
+      { 
+        "title": "Theme Clock",
+        "category": "",
+        "image": "themeClock.png",
+        "url": "https://github.com/itprofessional-4ever/50projects/tree/master/project19-Theme%20Clock"
+      },
+      {
+        "title": "Go?",
+        "category": "",
+        "image": "go1.png",
+        "url": "https://medium.com/@itprofessional.4ever7/the-atlas-of-go-language-7afe886d9313"
+      },
+      {
+        "title": "Setting up Go",
+        "category": "",
+        "image": "go2.png",
+        "url": "https://medium.com/@itprofessional.4ever7/setting-up-go-language-ab16f0be67c3"
+      },
+      {
+        "title": "Concurrency in Go",
+        "category": "",
+        "image": "go3.png",
+        "url": "https://medium.com/@itprofessional.4ever7/concurrency-in-go-f8dd379ebc06"
+      },
+      {
+        "title": "And more exciting things are coming out...",
+        "category": "",
+        "image": "Moraine.jpeg",
+        "url": ""
       }
     ]
   },
   "testimonials": {
     "testimonials": [
       {
-        "text": "Sonny is absolutely excellent, his depth of knowledge & his mentorship really meant a lot to us... I would definitely recommend",
-        "user": "Jorge Fouto"
+        "text": "Chloe is such a delightful person to have around. She always takes care of people around her. She always has conversation with flexible and open mind. I was impressed how Chloe kept the team morale up. On top of amazing her personality, Chloe has great interests in new technologies and she eagers to learn and adopt those in her projects. ",
+        "user": "Seol Hi Kim"
       },
       {
-        "text": "Learning with Sonny has been AWESOME, he makes learning React so easy and approachable, you'll finally feel like you know what's going on!",
-        "user": "Adam Curtis"
+        "text": "She is always motivated and consideration for others. Also, she has a good skills for coding such as problem-solving and creative. I believe that she would be a great software engineer",
+        "user": "Aram Kim"
+      },
+      {
+        "text": "Chloe is very responsible and professional in her work. She has always completed assignments in time during the diploma program regardless of the lots of schedules she has, which has also motivated people around her. I ensure that she will never disappoint someone who works with.",
+        "user": "Jinseok Lee"
+      }, 
+      {
+        "text": "It has been a great pleasure working on projects with Chloe at SAIT. I found her extremely humble, enthusiastic, devoted, and well-prepared for all projects and assignments. She was always ready to take up any tasks and showed me a great abilities and capabilities on software development. Moreover, she is an excellent listener and a very resourceful mentor, therefore, many students including myself trust her and rely on her for various issues. I am so fortunate that having met her as a colleague and a mentor in my life. I would strongly recommend her as a reliable co-worker and a capable software developer.",
+        "user": "Ray Kim"
+      },
+      {
+        "text": "Eunsuk is a person with strong sense of responsibility and great interpersonal skills. I was impressed with her because she always delivers her part during a project, even if it means it takes all night. If assigned to her, the team did not have to look back again because she always presented quality work. Taking care of her big family, it’s hard to understand how she manages her time, but she does it magically. She has a big heart and treats her team members just like her family. Anyone would love her on their team, including me of course.",
+        "user": "Sean Kim"
+      },
+      {
+        "text": "I strongly recommend her as a excellent team player since she has self-motivated, well-organized and creative mind. She also has professional skills such as languages, creating and operating application or database.",
+        "user": "Seongdo Kim"
       }
     ]
   }
