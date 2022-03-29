@@ -109,16 +109,28 @@
         "url": "https://shopping-mini-game.herokuapp.com/"
       },
       {
-        "title": "Password Generator",
+        "title": "50 Projects(HTML, CSS, JavaScript)",
         "category": "",
         "image": "passwordGenerator.png",
-        "url": "https://github.com/itprofessional-4ever/50projects/tree/master/project31-Password%20Generator"
+        "url": "https://itprofessional-4ever.github.io/chloe50projects.github.io/"
       },
-      { 
-        "title": "Theme Clock",
+      {
+        "title": "COVID-19-Tracker",
         "category": "",
-        "image": "themeClock.png",
-        "url": "https://github.com/itprofessional-4ever/50projects/tree/master/project19-Theme%20Clock"
+        "image": "covid19.jpg",
+        "url": "https://chloe-covid19-tracking.netlify.app/"
+      },
+      {
+        "title": "Starbucks",
+        "category": "",
+        "image": "starbucks.png",
+        "url": "https://itprofessional-4ever.github.io/starbucks-homepage-clone/"
+      },  
+      {
+        "title": "Monter Rolodex",
+        "category": "",
+        "image": "rolodex.jpeg",
+        "url":"https://monster-rolodex-chloe.netlify.app/"
       },
       {
         "title": "Go?",
@@ -131,27 +143,11 @@
         "category": "",
         "image": "go2.png",
         "url": "https://medium.com/@itprofessional.4ever7/setting-up-go-language-ab16f0be67c3"
-      },
-      {
-        "title": "Concurrency in Go",
-        "category": "",
-        "image": "go3.png",
-        "url": "https://medium.com/@itprofessional.4ever7/concurrency-in-go-f8dd379ebc06"
-      },
-      {
-        "title": "And more exciting things are coming out...",
-        "category": "",
-        "image": "Moraine.jpeg",
-        "url": ""
-      }
+      }    
     ]
   },
   "testimonials": {
     "testimonials": [
-      {
-        "text": "Chloe is such a delightful person to have around. She always takes care of people around her. She always has conversation with flexible and open mind. I was impressed how Chloe kept the team morale up. On top of amazing her personality, Chloe has great interests in new technologies and she eagers to learn and adopt those in her projects. ",
-        "user": "Seol Hi Kim"
-      },
       {
         "text": "She is always motivated and consideration for others. Also, she has a good skills for coding such as problem-solving and creative. I believe that she would be a great software engineer",
         "user": "Aram Kim"
@@ -170,7 +166,7 @@
       },
       {
         "text": "I strongly recommend her as a excellent team player since she has self-motivated, well-organized and creative mind. She also has professional skills such as languages, creating and operating application or database.",
-        "user": "Seongdo Kim"
+        "user": "Seongdo Lee"
       }
     ]
   }
