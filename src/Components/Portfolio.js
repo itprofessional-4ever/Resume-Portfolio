@@ -1,3 +1,5 @@
+/* eslint-disable react/jsx-no-target-blank */
+/* eslint-disable react/jsx-no-comment-textnodes */
 import React from "react";
 
 const Portfolio = ({ data }) => {
@@ -7,6 +9,7 @@ const Portfolio = ({ data }) => {
       return (
         <div key={projects.title} className="columns portfolio-item">
           <div className="item-wrap">
+            // eslint-disable-next-line react/jsx-no-target-blank
             <a href={projects.url} title={projects.title} target="_blank" 
               style={{width: "200px",
                       height: "200px"
