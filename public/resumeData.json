@@ -1,10 +1,10 @@
 {
   "main": {
-    "name": "Chloe Lee",
+    "name": "Eunsuk Lee",
     "occupation": "Web Developer",
     "description": "I dream of an inspiring and breathtaking world with creative coding",
     "image": "profilepic.png",
-    "bio": "Hi there! I am Chloe. Since I am a SAIT graduate, I am trying to discover a new, unique world. Although I am not sure of my future and what will happen, I will continue to dream big and far. I lack experience when it comes to being professional. Nevertheless, I have a plan for every step I take in my path, and I constantly try my best to teach myself many different and new technologies. I am a fast learner, and I try my hardest, no matter the circumstances. I enjoy helping others out and using my abilities to my limit within the team. I am a positive person, a person that is easy to communicate with. I know when to listen to others and when to speak. I am open to new ideas and thoughts that are shared.",
+    "bio": "Hi there! I am Eunsuk. Since I am a SAIT graduate, I am trying to discover a new, unique world. Although I am not sure of my future and what will happen, I will continue to dream big and far. I lack experience when it comes to being professional. Nevertheless, I have a plan for every step I take in my path, and I constantly try my best to teach myself many different and new technologies. I am a fast learner, and I try my hardest, no matter the circumstances. I enjoy helping others out and using my abilities to my limit within the team. I am a positive person, a person that is easy to communicate with. I know when to listen to others and when to speak. I am open to new ideas and thoughts that are shared.",
     "contactmessage": "Get in touch with me to be a part of Dream Coder Team!",
     "email": "itprofessional.4ever7@gmail.com",
     "address": {
@@ -42,7 +42,7 @@
         "company": "Starbucks Canada",
         "title": "Barista",
         "years": "June 2016 - August 2018",
-        "description": "As a barista, take orders and meke coffee and other drinks to customer specifications, and maintain good customer relations and speedy delivery of all beverages as well as complete assigned tasks from management every day."
+        "description": "As a barista, take orders and make coffee and other drinks to customer specifications, and maintain good customer relations and speedy delivery of all beverages as well as complete assigned tasks from management every day."
       },
       {
         "company": "TG ONE",
