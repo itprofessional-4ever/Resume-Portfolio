@@ -1,7 +1,7 @@
 {
   "main": {
     "name": "Eunsuk Lee",
-    "occupation": "Web Developer",
+    "occupation": "Full Stack Software Developer",
     "description": "I dream of an inspiring and breathtaking world with creative coding",
     "image": "profilepic.png",
     "bio": "Hi there! I am Eunsuk. Since I am a SAIT graduate, I am trying to discover a new, unique world. Although I am not sure of my future and what will happen, I will continue to dream big and far. I lack experience when it comes to being professional. Nevertheless, I have a plan for every step I take in my path, and I constantly try my best to teach myself many different and new technologies. I am a fast learner, and I try my hardest, no matter the circumstances. I enjoy helping others out and using my abilities to my limit within the team. I am a positive person, a person that is easy to communicate with. I know when to listen to others and when to speak. I am open to new ideas and thoughts that are shared.",
@@ -30,6 +30,12 @@
   "resume": {
     "skillmessage": "My Programming Language Proficiency",
     "education": [
+      {
+        "school": "Neo Financial X Harvest Builders",
+        "degree": "Harvest Talent Incubator Full Stack Development Program",
+        "graduated": "March 2022 - April 2022",
+        "description": "A 5-week self-paced program, including modern technologies like React, NodeJS, TypeScript, Apollo GraphQL and MongoDB."
+      },
       {
         "school": "Southern Alberta Institute of Technology",
         "degree": "Diploma, Software Development",
