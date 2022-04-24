@@ -49,6 +49,11 @@ const Header = ({ data }) => {
               Portfolio
             </a>
           </li>
+          <li>
+            <a className="smoothscroll" href="#skills">
+              Skills
+            </a>
+          </li>
           
           <li>
             <a className="smoothscroll" href="#testimonials">

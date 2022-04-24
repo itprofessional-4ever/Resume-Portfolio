@@ -2,9 +2,9 @@
   "main": {
     "name": "Chloe Lee",
     "occupation": "Web Developer",
-    "description": "I dream of creative and funny world with hilarious coding",
+    "description": "I dream of an inspiring and breathtaking world with creative coding",
     "image": "profilepic.png",
-    "bio": "Hi there! I am Chloe. Since I just graduated from SAIT, I am trying to discover a new, creative world. Although I am not sure of my future and what will happen, I will continue to dream big and far. I lack experience when it comes to being professional. Nevertheless, I have a plan for every step I take in my path, and I constantly try my best to teach myself many different and new technologies. I am a fast learner, and I try my hardest, no matter the circumstances. I enjoy helping others out and using my abilities to my limit within the team. I am a positive person, a person that is easy to communicate with. I know when to listen to others and when to speak. I am open to new ideas and thoughts that are shared.",
+    "bio": "Hi there! I am Chloe. Since I am a SAIT graduate, I am trying to discover a new, unique world. Although I am not sure of my future and what will happen, I will continue to dream big and far. I lack experience when it comes to being professional. Nevertheless, I have a plan for every step I take in my path, and I constantly try my best to teach myself many different and new technologies. I am a fast learner, and I try my hardest, no matter the circumstances. I enjoy helping others out and using my abilities to my limit within the team. I am a positive person, a person that is easy to communicate with. I know when to listen to others and when to speak. I am open to new ideas and thoughts that are shared.",
     "contactmessage": "Get in touch with me to be a part of Dream Coder Team!",
     "email": "itprofessional.4ever7@gmail.com",
     "address": {
@@ -47,50 +47,54 @@
       {
         "company": "TG ONE",
         "title": "Senior Microsoft Office International Certified Trainer",
-        "years": "January 2002 - May 2009",
+        "years": "February 2002 - April 2009",
         "description": "Training to cultivate manpower with internationally recognized qualifications such as MS-Word, Excel, Powerpoint, Access, etc. Preparation for certification training, curriculum organization, qualification management, report for student progress, reception and textbook production."
       }
     ],
     "skills": [
       {
-        "name": "HTML",
-        "level": "100%"
-      },
-      {
-        "name": "CSS",
+        "name": "JavaScrip",
         "level": "80%"
       },
       {
-        "name": "JavaScript",
-        "level": "90%"
-      },
-      {
         "name": "ReactJS",
-        "level": "85%"
-      },
-      {
-        "name": "MongoDB",
-        "level": "99%"
-      },
-      {
-        "name": "Express",
-        "level": "90%"
+        "level": "70%"
       },
       {
         "name": "NodeJS",
-        "level": "85%"
+        "level": "75%"
       },
       {
-        "name": "Git",
-        "level": "90%"
+        "name": "Express",
+        "level": "70%"
+      },
+      {
+        "name": "MongoDB",
+        "level": "80%"
+      },
+      {
+        "name": "TypeScript",
+        "level": "50%"
       },
       {
         "name": "Java",
-        "level": "60%"
+        "level": "70%"
       },
       {
-        "name": "Web Development",
+        "name": "Git",
         "level": "75%"
+      },
+      {
+        "name": "GraphQL",
+        "level": "85%"
+      },
+      {
+        "name": "Jest",
+        "level": "70%"
+      },
+      {
+        "name": "Jira",
+        "level": "100%"
       }
     ]
   },
